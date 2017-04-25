@@ -1,0 +1,7 @@
+C:\dev\Bowling\UI\bin\Debug\UI.exe
+C:\dev\Bowling\UI\bin\Debug\UI.pdb
+C:\dev\Bowling\UI\bin\Debug\Bowling.dll
+C:\dev\Bowling\UI\bin\Debug\Bowling.pdb
+C:\dev\Bowling\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\dev\Bowling\UI\obj\Debug\UI.exe
+C:\dev\Bowling\UI\obj\Debug\UI.pdb
