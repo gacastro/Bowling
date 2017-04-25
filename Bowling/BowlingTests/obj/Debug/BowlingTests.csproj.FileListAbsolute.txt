@@ -1,9 +1,0 @@
-C:\dev\Bowling\BowlingTests\bin\Debug\BowlingTests.dll
-C:\dev\Bowling\BowlingTests\bin\Debug\BowlingTests.pdb
-C:\dev\Bowling\BowlingTests\bin\Debug\Bowling.dll
-C:\dev\Bowling\BowlingTests\bin\Debug\nunit.framework.dll
-C:\dev\Bowling\BowlingTests\bin\Debug\Bowling.pdb
-C:\dev\Bowling\BowlingTests\bin\Debug\nunit.framework.xml
-C:\dev\Bowling\BowlingTests\obj\Debug\BowlingTests.csprojResolveAssemblyReference.cache
-C:\dev\Bowling\BowlingTests\obj\Debug\BowlingTests.dll
-C:\dev\Bowling\BowlingTests\obj\Debug\BowlingTests.pdb

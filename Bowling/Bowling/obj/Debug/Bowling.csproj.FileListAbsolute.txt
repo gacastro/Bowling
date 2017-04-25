@@ -1,4 +1,0 @@
-C:\dev\Bowling\Bowling\bin\Debug\Bowling.dll
-C:\dev\Bowling\Bowling\bin\Debug\Bowling.pdb
-C:\dev\Bowling\Bowling\obj\Debug\Bowling.dll
-C:\dev\Bowling\Bowling\obj\Debug\Bowling.pdb
